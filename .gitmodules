@@ -1,3 +1,3 @@
 [submodule "clash-foss"]
 	path = core/src/foss/golang/clash
-	url = https://github.com/theseann/clash.git
+	url = git@github.com:theseann/clash.git
